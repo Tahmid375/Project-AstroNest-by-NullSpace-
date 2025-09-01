@@ -4,11 +4,15 @@ AstroNest is a browser-based, gamified platform for designing space habitats. Us
 
 Project Overview
 
+
 AstroNest is an interactive, browser-based tool for designing sustainable and efficient space habitats. It provides a gamified, data-driven platform for users of all levels—from students to aerospace engineers and astronauts—to design, simulate, and explore habitat layouts for orbital and planetary environments. Real-time NASA data integration ensures scientifically valid and mission-ready designs.
 
 Core Concept: Drag-and-drop interface for designing and simulating space habitats
 Primary Goal: Make space habitat design accessible, educational, and collaborative
 Target Audience: Enthusiastic learners, aerospace engineers, mission planners, astronauts
+
+
+
 
 The Challenge
 
@@ -21,6 +25,11 @@ Functional Integration: Life support, power, medical, and other critical systems
 Knowledge Gap: Making habitat design accessible beyond experts
 
 Collaboration: Centralized platform for diverse contributions
+
+
+
+
+
 
 Our Solution
 
@@ -35,6 +44,7 @@ Habitat Types: Orbital vs. planetary surface habitats
 Geometries & Layouts: Interactive modules on shapes, structures, and layouts
 
 Build Mode
+
 
 Data-Driven Design: Select a real planet or custom environment with NASA data integration
 
@@ -74,6 +84,10 @@ Phase 1 – AI & ML Integration: Auto-generate optimized habitat layouts from us
 Phase 2 – Advanced Simulation & Planning: Multi-hop mission networks, emergency scenario simulation, resource management
 Phase 3 – Community & Collaboration: User accounts, collaborative sandboxes, share and rate designs
 
+
+
+
+
 How to Use
 
 Open the web app in a modern browser
@@ -84,6 +98,9 @@ Switch to Build Mode to create habitats using drag-and-drop
 
 Submit feedback to contribute to community-driven design improvements
 
+
+
+
 Contributing
 
 Contributions are welcome! You can:
@@ -93,6 +110,11 @@ Suggest features via GitHub Issues
 Submit pull requests for bug fixes or improvements
 
 Collaborate on future AI integration and simulation modules
+
+
+
+
+
 
 License
 
